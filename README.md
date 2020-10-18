@@ -1,2 +1,2 @@
 # Reactivities
- Complete guide to building an app with .Net Core and React
+Training project for dotnet with React
