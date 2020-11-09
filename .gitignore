@@ -6,3 +6,5 @@ appsettings.json
 *.db
 notes.txt
 *.log
+**/node_modules/
+**/package-lock.json
